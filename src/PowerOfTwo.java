@@ -1,5 +1,5 @@
 /**
- * In this article we will see various ways to check if a number is power of 2.
+ * In this program we will see various ways to check if a number is power of 2.
  * The question is asked in various programming interviews.
  * <p>
  * Using Bitwise operations (The efficient way):
