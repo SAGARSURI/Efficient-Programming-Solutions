@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
  * In this program we will learn different ways to add all the elements in an array
  * For example:
  * if we have an array
- * int[] array = {1,2,3,4,5,}
+ * int[] array = {1,2,3,4,5}
  * and we need to add all the elements of the above array. How we are going to do this ?
  * Lets find out.
  */
